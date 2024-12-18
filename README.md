@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Talwekar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" src="https://github.com/tushtalwekar12" alt="Tushar Talwekar" width="300" height="300"/>
+<img align="right" src="/tushartalwekar/image/github.gif" alt="Tushar Talwekar" width="300" height="300"/>
 
 - 🌱 I’m currently learning **MERN Stack Development**.
 - 👨‍💻 All of my projects are available at [tushartalwekar-portfolio.netlify.app](https://tushartalwekar-portfolio.netlify.app).
